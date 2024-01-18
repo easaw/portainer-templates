@@ -2656,7 +2656,7 @@
         }
       ],
       "image": "linuxserver/oscam:latest",
-      "logo": "http://i.imgur.com/8LadrLg.png",
+      "logo": "",
       "name": "oscam",
       "platform": "linux",
       "ports": [
@@ -3903,7 +3903,7 @@
         }
       ],
       "image": "linuxserver/tvheadend:latest",
-      "logo": "http://i.imgur.com/zGSUAT4.png",
+      "logo": "",
       "name": "tvheadend",
       "platform": "linux",
       "ports": [
@@ -11123,7 +11123,7 @@
       "note": "Portainer App Templates by <a href='https://www.technorabilia.com' target='_blank'>Technorabilia</a> based on data provided by <a href='https://www.linuxserver.io' target='_blank'>LinuxServer.io</a>.</p><p>Don't forget to create the volume directories on the host file system.</p><p>mkdir -p /volume1/docker/quassel-core/config</p>",
       "description": "[Quassel-core](http://quassel-irc.org/) is a modern, cross-platform, distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. This container handles the IRC connection (quasselcore) and requires a desktop client (quasselclient) to be used and configured. It is designed to be always on and will keep your identity present in IRC even when your clients cannot be online. Backlog (history) is downloaded by your client upon reconnection allowing infinite scrollback through time.",
       "platform": "linux",
-      "logo": "http://icons.iconarchive.com/icons/oxygen-icons.org/oxygen/256/Apps-quassel-icon.png",
+      "logo": "",
       "image": "linuxserver/quassel-core:latest",
       "env": [
         {
@@ -12330,7 +12330,7 @@
       ],
       "description": "ClamAV\u00ae is an open source antivirus engine for detecting trojans, viruses, malware & other malicious threats.",
       "image": "mkodockx/docker-clamav:alpine",
-      "logo": "http://www.clamav.net/assets/clamav-trademark.png",
+      "logo": "",
       "name": "clamav",
       "platform": "linux",
       "ports": [
