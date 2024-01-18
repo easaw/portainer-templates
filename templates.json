@@ -5171,22 +5171,6 @@
     },
     {
       "categories": [
-        "Automation",
-        "AI"
-      ],
-      "description": "Automate your marketing, sales and operations",
-      "logo": "https://cdn.activepieces.com/brand/full-logo-white.svg",
-      "name": "activepieces",
-      "platform": "linux",
-      "repository": {
-        "stackfile": "Template/Stack/activepieces.yml",
-        "url": "https://github.com/xneo1/portainer_templates"
-      },
-      "title": "Activepieces",
-      "type": 3
-    },
-    {
-      "categories": [
         "Management"
       ],
       "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager.",
